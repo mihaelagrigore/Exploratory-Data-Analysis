@@ -10,3 +10,14 @@ This notebook uses data from the <a href='https://www.kaggle.com/mishki/explorat
 How to use it:  
 Open the Jupyter Notebook in this folder. You can clone it, download it or just read it here. 
 There is also a link at the top of the Notebook which takes you to the same Notebook on Kaggle. 
+
+Contents of this <a href='https://github.com/mihaelagrigore/Exploratory-Data-Analysis/blob/main/exploratory-data-analysis-pandas-numpy-seaborn.ipynb'>Notebook</a>
+
+    1. Why EDA ?
+    2. Pandas, Numpy, Matplotlib, Seaborn
+    3. Data types
+    4. Exploring categorical features
+    5. Exploring numerical features
+    6. Bivariate analysis
+    7. Outliers
+
