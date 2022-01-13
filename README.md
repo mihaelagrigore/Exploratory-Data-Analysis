@@ -5,4 +5,8 @@ Although modelling is the most highlighted part of the job, experienced Data Sci
 Data preparation contains multiple steps. When I first started training myself in this field, I began reading about <a href='https://www.kdnuggets.com/2019/06/7-steps-mastering-data-preparation-python.html'>EDA in 7 Steps to Mastering Data Preparation for Machine Learning with Python on KDnuggets</a>.
 In this tutorial I will only discuss Exploratory Data Analysis.
 
-I will work on the data from the World Happiness Report from 2020.
+This notebook uses data from the <a href='https://www.kaggle.com/mishki/exploratory-data-analysis-pandas-numpy-seaborn/data?scriptVersionId=85128049'>World Happiness Report from 2020</a>.
+
+How to use it:
+Open the Jupyter Notebook in this folder. You can clone it, download it or just read it here. 
+There is also a link at the top of the Notebook which takes you to the same Notebook on Kaggle. 
