@@ -7,6 +7,6 @@ In this tutorial I will only discuss Exploratory Data Analysis.
 
 This notebook uses data from the <a href='https://www.kaggle.com/mishki/exploratory-data-analysis-pandas-numpy-seaborn/data?scriptVersionId=85128049'>World Happiness Report from 2020</a>.
 
-How to use it:
+How to use it:  
 Open the Jupyter Notebook in this folder. You can clone it, download it or just read it here. 
 There is also a link at the top of the Notebook which takes you to the same Notebook on Kaggle. 
