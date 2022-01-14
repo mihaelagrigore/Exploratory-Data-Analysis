@@ -1,3 +1,5 @@
+# Introduction to Exploratory Data Analysis
+
 This notebook is a basic introduction to Exploratory Data Analysis (EDA), the foundation of any Data Science project. Because it's meant of beginners, as I myself was when writing it, I will ask some very basic questions to understand why they do things the way they do in this industry.
 
 Although modelling is the most highlighted part of the job, experienced Data Scientists say that preparing the data before they can start training models for it takes most of their time. And when they speak about it, many times, you hear them saying "this is not pretty" or "not glamarous". I actually find this detective work pretty beautiful. I hope you will like it too.
